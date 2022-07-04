@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ManishSpring_MVCLabSolution-main_Manish_Spring_MVCLabSolution-main">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/java"/>
+        <property name="context-root" value="ManishSpring_MVCLabSolution-main_Manish_Spring_MVCLabSolution-main"/>
+        <property name="java-output-path" value="/ManishSpring_MVCLabSolution-main_Manish_Spring_MVCLabSolution-main/bin"/>
+    </wb-module>
+</project-modules>
